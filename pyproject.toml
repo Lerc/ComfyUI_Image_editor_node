@@ -1,0 +1,14 @@
+[project]
+name = "canvas_tab"
+description = "This extension provides a full page image editor with mask support. There are two nodes, one to receive images from the editor and one to send images to the editor."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Lerc/canvas_tab"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "canvas_tab"
+Icon = ""
